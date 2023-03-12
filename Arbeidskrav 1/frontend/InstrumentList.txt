@@ -1,0 +1,11 @@
+Registered at FUNCTIONALITY NOT IMPLEMENTED YET
+Sensor Name = asdf
+Serial Number = 1234
+SignalType = Digital
+MeasureType = Digital 
+Options = Hva skal være her? Står ingen ting i arbeidskravet, men var en del av en av timene
+LRV = 5
+URV = 5
+Comment = Samme her også...?'
+
+
