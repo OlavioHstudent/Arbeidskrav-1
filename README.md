@@ -24,6 +24,11 @@ Login:
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Write to file:
+Instrument lagres når man trykker "register new".
+Sensordata lagres når man stopper kontinuerlig lesing.
+Har et sånt oppsett fordi jeg vil bake det mer inn med de andre arbeidskravene, og vet ikke om jeg vil appende med dato og tidsstempling eller lage nye filer hver gang. osv.
+
 Jeg tror jeg har gjort alt som trengs for å tilfredsstille hva jeg tror er arbeidskrav 1.
 Designinitiativet mitt var mer tidkrevende enn forventet, så dette er lagt på is inntil videre.
 
